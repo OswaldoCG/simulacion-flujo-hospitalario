@@ -41,7 +41,7 @@ El proyecto utiliza las siguientes bibliotecas de Python estándar:
 1.  Clona el repositorio:
 
     ```bash
-    git clone <URL_DEL_REPOSITORIO>
+    git clone https://github.com/OswaldoCG/simulacion-flujo-hospitalario.git
     ```
 
 2.  (Opcional pero recomendado) Crea un entorno virtual:
